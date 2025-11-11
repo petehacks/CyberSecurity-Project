@@ -1,6 +1,6 @@
 import hashlib
 
 
-password = "python_is_fun"
+password = "welcome123"
 hash = hashlib.sha256 (password.encode('utf-8'))
 print(hash.hexdigest())
