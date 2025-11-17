@@ -19,10 +19,19 @@ cipher = Cipher(algorithms.AES(key), modes.CBC(iv), backend=backend)
 decryptor = cipher.decryptor()
 padded_plain = decryptor.update(ciphertext) + decryptor.finalize()
 
-# Remove PKCS#7 padding
+
+# Remove PKCS#7 padding (handle errors gracefully)
+
+print("Decrypted (raw):", padded_plain)
+print("Last byte (padding):", padded_plain[-1])
+print("Raw output (no padding removed):", padded_plain)
+#print("Raw output (no padding removed):", padded_plain)
+# ...existing code...
+
 pad_len = padded_plain[-1]
 if not 1 <= pad_len <= 16:
-    raise ValueError("Invalid padding length")
-plaintext = padded_plain[:-pad_len]
-
-print("Plaintext:", plaintext.decode('utf-8'))
+    print("Warning: Invalid padding length. Raw decrypted output:")
+    print(padded_plain)
+else:
+    plaintext = padded_plain[:-pad_len]
+    print("Plaintext:", plaintext.decode('utf-8', errors='replace'))
