@@ -22,13 +22,13 @@ def aes_decrypt(ciphertext_b64, key, iv):
 # ---------------- USER INPUT SECTION ----------------
 
 # 🔑 Insert your AES secret key (must be 16, 24, or 32 bytes for AES-128/192/256)
-secret_key = "1234567890123456"
+secret_key = "A1B2C3D4E5F6G7H8"
 
 # 🔐 Insert your AES IV (must be 16 bytes)
-iv = "abcdefghijklmnop"
+iv = "1a2b3c4d5e6f7g8h"
 
 # 🔒 Insert your encrypted Base64 text
-encrypted_text = "This is a test message."
+encrypted_text = "biQaUaXCQoYjUFO4zsSzPi7ul6YISlvKK/AQ1yrsO6M="
 
 # ----------------------------------------------------
 
