@@ -1,0 +1,180 @@
+  670  history -100
+  671  clear
+  672  ls
+  673  pwd
+  674  ls
+  675  cd desktop
+  676  ls
+  677  cd CyberSecurity File
+  678  ls
+  679  cd CyberSecurity\ File
+  680  ls
+  681  cd unix_1
+  682  touch file1.txt
+  683  touch file2.txt
+  684  cat file1.txt file2.txt
+  685  clear
+  686  ls
+  687  ls -1
+  688  cd ..
+  689  ls -a
+  690  banner -w50
+  691  man banner
+  692  cd unix_1
+  693  ls
+  694  ls -a
+  695  nano file1.txt 
+  696  ls -la
+  697  chmod o+w file1.txt
+  698  ls -la
+Adult@DAEDMAC03 unix_1 % history -150
+  550  cd 3\ week\ program
+  551  git add .
+  552  git commit -m "i completed my design, figma, prompt aenginnering"
+  553  git push --all
+  554  git add .
+  555  git commit -m "i completed my design, figma, prompt aenginnering"
+  556  git push --all
+  557  man ls
+  558  ls la
+  559  ls -la
+  560  first touch 
+  561  touch first
+  562   touch
+  563  clear
+  564  cd Desktop
+  565  cd 3 webdev-backend-intro
+  566  cd ..
+  567  cd Desktop
+  568  ls
+  569  cd 3-week-program
+  570  clear
+  571  cd unix_1
+  572  pwd
+  573  ls
+  574   ls
+  575  touch
+  576  touch
+  577  ls
+  578  nano notes.txt
+  579  cat notes.txt
+  580  cat -n notes.txt
+  581  history -100
+  582  pwd
+  583  ls
+  584  touch
+  585  cat
+  586  cd Desktop
+  587  cd 3-week-program
+  588  ls
+  589  cd unix_1
+  590  ls
+  591  cat notes.txt
+  592  touch file1.txt
+  593  ls
+  594  nano file1.txt
+  595  cat file1.txt
+  596  ls
+  597  ls -a
+  598  ls -la
+  599  ls
+  600  ls -a
+  601  ls -la
+  602  ls -la
+  603  cd Desktop
+  604  cd 3-week-program
+  605  git add .
+  606  git commit -m "I complete unix_1 and Cybersecurity basics 1"
+  607  git push --all
+  608  Password strength evolution tool
+  609  Input Niasfe36
+  610  InputNiasfe36 (integer)
+  611  (input) Niasfe36 (string)
+  612  Input(:Niasfe36:). (string)
+  613  cd Desktop
+  614  ls
+  615  cd "Cybersecurity File" 
+  616  ls
+  617  git init
+  618  git add .
+  619  git status
+  620  git commit -m "push design work"
+  621  Desktop
+  622  ls
+  623  clear
+  624  cd Desktop
+  625  ls
+  626  cd "CyberSecurity File"
+  627  ls
+  628  ls -a
+  629  git config --global user.name "petehacks"
+  630  git config --global user.email "peteb42802@gmail.com"
+  631  git confid --global user.name "petehacks"
+  632  git config --global user.name "petehacks"
+  633  git remote add origin https://github.com/petehacks/CyberSecurity-Project.git
+  634  git push --all
+  635  git push --all
+  636  git push --all
+  637  git push --all
+  638  git config http.postBuffer 524288000
+  639  git push --all
+  640  ls
+  641  ls Desktop
+  642  ls CyberSecurity file
+  643  ls CyberSecurity
+  644  ls CyberSecurity_file
+  645  ls "/Users/adult/Desktop/CyberSecurity File/python_1"
+  646  cd "/Users/adult/Desktop/CyberSecurity File/python_1" && /usr/local/bin/python3 password_cracker.py
+  647  cd "/Users/adult/Desktop/CyberSecurity File/python_1"\npython3 password_cracker.py
+  648  cd "/Users/adult/Desktop/CyberSecurity File/python_1"\npython3 password_cracker.py
+  649  cd "/Users/adult/Desktop/CyberSecurity File/python_1"\npython3 password_cracker.py
+  650  git push
+  651  git push --CyberSecurity file
+  652  git push all --CyberSecurity file
+  653  git push --all
+  654  git add.
+  655  git add .
+  656  git commit -m"CyberSecurity file"
+  657  git add .
+  658  git commit -m "commit"
+  659  git push --all
+  660  git push --all
+  661  pip install cryptography
+  662  pip3 install cryptography
+  663  python.13 -m pip install --upgrade pip
+  664  -m install --upgrade pip
+  665  python3.13 -m pip install --upgrade pip
+  666  echo 'export PATH="$PATH:/Users/adult/Library/Python/3.13/bin"' >> ~/.zshrc\nsource ~/.zshrc\n
+  667  /usr/local/bin/python3 "/Users/adult/Desktop/CyberSecurity File/decrypt/decrypt.py"
+  668  python3 "/Users/adult/Desktop/CyberSecurity File/decrypt/decrypt.py"
+  669  ls
+  670  history -100
+  671  clear
+  672  ls
+  673  pwd
+  674  ls
+  675  cd desktop
+  676  ls
+  677  cd CyberSecurity File
+  678  ls
+  679  cd CyberSecurity\ File
+  680  ls
+  681  cd unix_1
+  682  touch file1.txt
+  683  touch file2.txt
+  684  cat file1.txt file2.txt
+  685  clear
+  686  ls
+  687  ls -1
+  688  cd ..
+  689  ls -a
+  690  banner -w50
+  691  man banner
+  692  cd unix_1
+  693  ls
+  694  ls -a
+  695  nano file1.txt 
+  696  ls -la
+  697  chmod o+w file1.txt
+  698  ls -la
+  699  history -200
